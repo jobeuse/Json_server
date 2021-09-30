@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Magna nisi ea aliqua aliqua sint.",
+      "body": "Excepteur aute id cillum fugiat. Id consequat laborum minim aliqua amet magna consequat commodo aliquip cupidatat minim est eiusmod Lorem. Aute adipisicing fugiat consectetur in aute in occaecat anim aute irure ex in. Aliqua ex sint cillum officia est ullamco ex do non voluptate amet. Eu deserunt cupidatat labore sint est laborum. Ea excepteur et veniam adipisicing esse fugiat anim. Eu irure dolor in officia irure irure cupidatat duis irure mollit deserunt do adipisicing tempor.",
+      "likes": 40
+    },
+    {
+      "id": 2,
+      "title": "Est ad laborum quis consectetur et cupidatat elit ad elit ea aliqua cillum excepteur.",
+      "body": "Aliquip sit consequat mollit tempor ullamco. Nulla dolore voluptate dolore enim sunt reprehenderit aliqua sit adipisicing est dolor cupidatat excepteur. Dolor deserunt enim eiusmod cupidatat aliquip id eu labore tempor sit et. Ad pariatur aliqua quis tempor nulla dolore. Reprehenderit enim deserunt minim aute occaecat eiusmod velit voluptate labore quis. Veniam reprehenderit irure ad aute irure ullamco aute ex ut minim exercitation occaecat consequat nostrud. Consectetur do deserunt quis quis cillum id pariatur reprehenderit tempor Lorem dolore elit.",
+      "likes": 4
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "Question": "Do you like me",
+      "AnswerA": "Yes",
+      "AnswerB": "No"
+    }
+  ]
+}
